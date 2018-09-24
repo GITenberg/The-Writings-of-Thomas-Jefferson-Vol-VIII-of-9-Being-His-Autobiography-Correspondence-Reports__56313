@@ -1,0 +1,35 @@
+_repo: The-Writings-of-Thomas-Jefferson-Vol-VIII-of-9-Being-His-Autobiography-Correspondence-Reports__56313
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jefferson, Thomas
+    alias: United States President (1801-1809)
+    birthdate: 1743
+    deathdate: 1826
+    gutenberg_agent_id: '1638'
+    url: http://www.gutenberg.org/2009/agents/1638
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Jefferson
+  editor:
+    agent_name: Washington, H. A. (Henry Augustine)
+    alias: Washington, Henry Augustine
+    birthdate: 1820
+    deathdate: 1858
+    gutenberg_agent_id: '43489'
+    url: http://www.gutenberg.org/2009/agents/43489
+description: ''
+gutenberg_issued: '2018-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56313'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Writings of Thomas Jefferson  Vol. VIII. (of 9)
+
+  Being His Autobiography, Correspondence, Reports, Messages,
+
+  Addresses, and Other Writings, Official and Private'
+url: http://www.gutenberg.org/ebooks/56313
